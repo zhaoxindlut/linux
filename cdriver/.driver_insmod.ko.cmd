@@ -1,1 +1,0 @@
-cmd_/home/zhaoxin/project/cdriver/driver_insmod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zhaoxin/project/cdriver/driver_insmod.ko /home/zhaoxin/project/cdriver/driver_insmod.o /home/zhaoxin/project/cdriver/driver_insmod.mod.o
