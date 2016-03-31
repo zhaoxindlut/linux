@@ -1,0 +1,1 @@
+cmd_/home/zhaoxin/gitproject/ahaha/cdriver/driver_insmod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zhaoxin/gitproject/ahaha/cdriver/driver_insmod.ko /home/zhaoxin/gitproject/ahaha/cdriver/driver_insmod.o /home/zhaoxin/gitproject/ahaha/cdriver/driver_insmod.mod.o

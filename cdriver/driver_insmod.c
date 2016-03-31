@@ -5,7 +5,7 @@
 #include <linux/cdev.h>
 #include <linux/mm.h>
 #include <linux/device.h>
-#include <asm/uaccess.h>
+#include <asm/uaccess.h>      //包含在内核空间和用户空间移动数据的函数
 
 MODULE_AUTHOR("DLUT");
 MODULE_LICENSE("GPL");
